@@ -20,11 +20,15 @@ Accuracy = Number of correct predictions / Number of total predictions
 | 197   | 0.9921       | 0.9881              |
 | 198   | 0.9881       | 0.9941              |
 | 199   | 0.9921       | 0.9921              |
-| 200   | <span style="color:red">0.997</span> | <span style="color:red">0.9921</span> |
+| 200   | 0.997        | 0.9921              |
 
 在Test資料集也可達到0.9903的成績。
 
 
-## Images
+## Training History
 
-![This is an alt text.](/model/training_history.png "This is a sample image.")
+![This is an alt text.](/model/training_history.png "訓練過程")
+
+## Training History
+
+![This is an alt text.](/model/AIdea評分.png "AIdea評分結果")
