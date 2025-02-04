@@ -19,14 +19,14 @@ Accuracy = Number of correct predictions / Number of total predictions
 > https://medium.com/data-science-navigator/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-vgg-cbf5a1fc1658
 
 使用Epchs 200即可達到訓練Accuracy
-0.997、Validation Accuracy 0.9921效果。
+0.9970、Validation Accuracy 0.9921效果。
 | Epoch | Train Accuracy | Validation Accuracy |
 |-------|--------------|---------------------|
 | 196   | 0.9921       | 0.9881              |
 | 197   | 0.9921       | 0.9881              |
 | 198   | 0.9881       | 0.9941              |
 | 199   | 0.9921       | 0.9921              |
-| 200   | 0.997        | 0.9921              |
+| 200   | 0.9970       | 0.9921              |
 
 在Test資料集也可達到0.9903的成績。
 
