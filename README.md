@@ -26,7 +26,7 @@ Accuracy = Number of correct predictions / Number of total predictions
 | 197   | 0.9921       | 0.9881              |
 | 198   | 0.9881       | 0.9941              |
 | 199   | 0.9921       | 0.9921              |
-| 200   | 0.9970       | 0.9921              |
+| **200 **  | **0.9970**       | **0.9921**              |
 
 在Test資料集也可達到0.9903的成績。
 
