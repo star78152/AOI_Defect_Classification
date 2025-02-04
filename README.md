@@ -13,9 +13,9 @@ Accuracy = Number of correct predictions / Number of total predictions
 ## 架構
 使用Python tensorflow進行AOI影像瑕疵分類。 <br>
 透過遷移學習方式，沿用VGG16架構進行神經網路訓練。  
-![This is an alt text.](/model/VGG16架構.jpg "VGG16架構圖")  
-VGG16架構圖
-> https://medium.com/data-science-navigator/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-vgg-cbf5a1fc1658
+![No Image!!](/model/VGG16架構.jpg "VGG16架構圖")  
+
+> VGG16架構圖 https://medium.com/data-science-navigator/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-vgg-cbf5a1fc1658
 
 使用Epchs 200即可達到訓練Accuracy
 0.997、Validation Accuracy 0.9921效果。
@@ -32,11 +32,8 @@ VGG16架構圖
 
 ## Training History
 
-![This is an alt text.](/model/training_history.png "訓練過程")
+![No Image!!](/model/training_history.png "訓練過程")
 
 ## AIdea評分結果
 
-![This is an alt text.](/model/AIdea評分.png "AIdea評分結果")
-
-
-
+![No Image!!](/model/AIdea評分.png "AIdea評分結果")
