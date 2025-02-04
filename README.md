@@ -15,7 +15,8 @@ Accuracy = Number of correct predictions / Number of total predictions
 透過遷移學習方式，沿用VGG16架構進行神經網路訓練。  
 ![No Image!!](/model/VGG16架構.jpg "VGG16架構圖")  
 
-> VGG16架構圖 https://medium.com/data-science-navigator/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-vgg-cbf5a1fc1658
+> VGG16架構圖
+> https://medium.com/data-science-navigator/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-vgg-cbf5a1fc1658
 
 使用Epchs 200即可達到訓練Accuracy
 0.997、Validation Accuracy 0.9921效果。
