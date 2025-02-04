@@ -18,8 +18,8 @@ Accuracy = Number of correct predictions / Number of total predictions
 > VGG16架構圖
 > https://medium.com/data-science-navigator/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-vgg-cbf5a1fc1658
 
-使用Epchs 200，Train Accuracy
-0.9970、Validation Accuracy 0.9921效果。
+訓練Epchs 200，得到Train Accuracy
+0.9970、Validation Accuracy 0.9921成果。
 | Epoch | Train Accuracy | Validation Accuracy |
 |-------|--------------|---------------------|
 | 196   | 0.9921       | 0.9881              |
