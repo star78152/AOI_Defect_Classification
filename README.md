@@ -29,6 +29,6 @@ Accuracy = Number of correct predictions / Number of total predictions
 
 ![This is an alt text.](/model/training_history.png "訓練過程")
 
-## Training History
+## AIdea評分結果
 
 ![This is an alt text.](/model/AIdea評分.png "AIdea評分結果")
